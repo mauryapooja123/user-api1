@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "name": "kiran",
+      "email": "anshika@123gmail.comm",
+      "id": 3
+    },
+    {
+      "name": "kiran",
+      "email": "anshika@123gmail.com",
+      "id": 4
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@123.com",
+      "id": 6
+    },
+    {
+      "name": "suneel sir",
+      "email": "anshika@123gmail.com",
+      "id": 9
+    }
+  ]
+}
